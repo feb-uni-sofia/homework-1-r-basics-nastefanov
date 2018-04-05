@@ -1,7 +1,11 @@
+## NOTE: readability: leave some blank linkes between the code to make it more readable
+
 #a)
 x<-c(4,1,1,4)
+
 #b)
 y<-c(1,4)
+
 #c)
 #The result is (3,-3,0,0), since y is shorter and is recycled once.
 x-y
